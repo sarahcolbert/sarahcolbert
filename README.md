@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahcolbert
 - 👀 I’m interested in psychiatric genetics!
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and R package development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sarah.colbert@wustl.edu
 
