@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarahcolbert 👩🏻‍💻
-- 🧐 I’m interested in psychiatric genetics!
+- 🧐 I’m interested in psychiatric and evolutionary genetics! 🧠🧬
 - 🌱 I’m currently learning python and R package development
 - 🆕 Upcoming projects include data organization and developing best practices for our lab!
 - 📧 How to reach me: sarah.colbert@wustl.edu
