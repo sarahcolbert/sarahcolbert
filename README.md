@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sarahcolbert 👩🏻‍💻
 - 🧐 I’m interested in psychiatric and evolutionary genetics! 🧠🧬
 - 🌱 I’m currently learning R package development
-- 🆕 Upcoming projects include data organization and developing best practices for our lab!
-- 📧 How to reach me: sarah.colbert@wustl.edu
+- 🆕 Upcoming projects include starting my PhD! 
+- 📧 How to reach me: sarah.colbert@icahn.mssm.edu
 
 <!---
 sarahcolbert/sarahcolbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
