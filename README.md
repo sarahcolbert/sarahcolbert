@@ -2,7 +2,7 @@
 - 🧐 I’m interested in psychiatric and evolutionary genetics! 🧠🧬
 - 🌱 I’m currently learning R package development
 - 🆕 Upcoming projects include starting my PhD! 
-- 📄 Check out my CV [here](https://github.com/sarahcolbert/cv/blob/main/colbert_CV_20220912.pdf)!
+- 📄 Check out my CV [here](https://github.com/sarahcolbert/cv/blob/main/colbert_CV_20220928.pdf)!
 - 📧 How to reach me: sarah.colbert@icahn.mssm.edu
 
 <!---
