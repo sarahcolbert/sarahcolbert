@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahcolbert 👩🏻‍💻
-- I’m interested in psychiatric and evolutionary genetics! 🧠🧬
-- I’m currently starting my PhD 🌱
+- I study psychiatric and evolutionary genetics! 🧠🧬
+- I am a PhD student at the Icahn School of Medicine at Mount Sinai 🥼🏙️🗽
 - Check out my CV: [📄](https://github.com/sarahcolbert/cv/blob/main/colbert_CV_20230113.pdf)
 - Send me an email: [📧](mailto:sarah.colbert@icahn.mssm.edu)
 
