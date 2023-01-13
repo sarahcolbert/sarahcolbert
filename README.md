@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarahcolbert 👩🏻‍💻
 - I’m interested in psychiatric and evolutionary genetics! 🧠🧬
 - I’m currently starting my PhD 🌱
-- Check out my CV [📄](https://github.com/sarahcolbert/cv/blob/main/colbert_CV_20230113.pdf)!
+- Check out my [CV 📄](https://github.com/sarahcolbert/cv/blob/main/colbert_CV_20230113.pdf)!
 - 📧: sarah.colbert@icahn.mssm.edu
 
 <!---
